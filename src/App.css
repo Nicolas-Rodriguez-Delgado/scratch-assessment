@@ -1,0 +1,49 @@
+body {
+  max-width: 1240px;
+    margin: auto;
+}
+li {
+  list-style: none;
+  margin-right: 10px;
+}
+.single-user {
+  display: flex;
+  margin: 20px;
+}
+label {
+  display: block;
+  margin: 20px 10px 20px 0px; 
+}
+span {
+  font-weight: bold;
+  margin-right: 5px;
+}
+.edit-form {
+  display: flex;
+}
+.user-form {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+h1 {
+  color: #1D1C2F;
+}
+img {
+  width: 430px;
+  margin: auto;
+  display: block;
+}
+button {
+  background-color: #5B70FF;
+  color: #60EDCE;
+  border-radius: 10%;
+  margin-right: 10px;
+  width: 100px;
+  height: 40px;
+  align-self: center;
+}
+input, select {
+  display: block;
+  width: 180px;
+}
